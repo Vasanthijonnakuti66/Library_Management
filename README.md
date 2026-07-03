@@ -102,7 +102,7 @@ Library-Management-System/
 
 # 📸 Database Objects
 
-<img src="/screenshots/Database..png" width="750">
+<img src="/images/Database.png" width="750">
 
 ---
 
