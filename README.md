@@ -102,7 +102,7 @@ Library-Management-System/
 
 # 📸 Database Objects
 
-<img src="/screenshots/Database.png" width="750">
+<img src="/screenshots/Database..png" width="750">
 
 ---
 
@@ -239,7 +239,7 @@ Library-Management-System/
 1. Clone this repository
 
 ```bash
-git clone https://github.com/yourusername/Library-Management-System.git
+git clone https://github.com/Vasanthijonnakuti66/Library_Management.git
 ```
 
 2. Open PostgreSQL / pgAdmin
@@ -290,7 +290,7 @@ window_functions.sql
 
 B.Tech Computer Science Engineering
 
-Aspiring Data Analyst | SQL | Python | Power BI
+Aspiring Data Analyst | SQL | Python
 
 ---
 
